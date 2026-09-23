@@ -1,0 +1,1 @@
+print(brightness_matrix)
